@@ -1,1 +1,1 @@
-../packages/fast-check/README.md
+../packages/fat-check/README.md
